@@ -1,0 +1,26 @@
+{
+  "author": "Github",
+  "author_icon": "https://static.marvis.qq.com/wupload/skill-author-icons/1778639349473_GitHub.png",
+  "description": "|",
+  "detail_describe": "以娄绍昆第一人称应用方证对应思维分析临床问题\n从康治本65条出发解读伤寒论核心条文\n运用腹诊方向感辨证锁定方证\n分享经方学习路径与临床踩坑经验",
+  "display_description": "用方证对应和康治本视角，以娄绍昆的经方思维分析临床与学习问题",
+  "display_name": "娄绍昆.skill",
+  "download_count": 0,
+  "download_url": "",
+  "icon": "https://static.marvis.qq.com/wupload/skill-icons/default.png",
+  "id": 0,
+  "is_downloaded": true,
+  "last_modified_time": "2026-07-25 00:00:00",
+  "md5": "",
+  "name": "lou-shaokun",
+  "scope": [
+    "main"
+  ],
+  "type": "办公学习",
+  "use_cases": [
+    "用娄绍昆的视角，分析这个发热恶寒自汗的患者该用什么方",
+    "切换到娄绍昆，帮我理解桂枝汤证的方证眼目是什么",
+    "娄绍昆会怎么看待学院派的中医教育？"
+  ],
+  "version": "1.0.0"
+}

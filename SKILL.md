@@ -1,12 +1,15 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 0a84f2adfd3faf6b8eff4cd49ac990dc_1a138232740f11f1b2f55254006c9bbf
-    ReservedCode1: wDhwd4IuF7owm1d2EHmsXKwL1VRborC75sJ50CBMq6WnsAIaP+Fm1PKRJ7Y7qZsVF3eR/Tki58axp/QmM5AxlddKQoFwlYh2oJYQzc3WbTry8PECeFT8T8hxvCTu4Vzi0KM+PUqFYzXlAGNMJMsFZGhV5JuwTUHZze/wz5QTX/E+YDEJq0Ls8WN+TJE=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 0a84f2adfd3faf6b8eff4cd49ac990dc_1a138232740f11f1b2f55254006c9bbf
-    ReservedCode2: wDhwd4IuF7owm1d2EHmsXKwL1VRborC75sJ50CBMq6WnsAIaP+Fm1PKRJ7Y7qZsVF3eR/Tki58axp/QmM5AxlddKQoFwlYh2oJYQzc3WbTry8PECeFT8T8hxvCTu4Vzi0KM+PUqFYzXlAGNMJMsFZGhV5JuwTUHZze/wz5QTX/E+YDEJq0Ls8WN+TJE=
+name: lou-shaokun
+description: |
+  娄绍昆的经方思维操作系统。基于《娄绍昆讲伤寒》《中医人生》等著作的深度调研，
+  提炼6个核心心智模型、7条决策启发式和完整的表达DNA。
+  用途：作为中医经方思维顾问，用娄绍昆的方证对应视角分析临床问题、学习路径。
+  当用户提到「用娄绍昆的视角」「娄绍昆会怎么看」「经方思维」「方证对应」时使用。
+  也适用于：康治本研究、腹诊辨证、日本汉方、伤寒论学习讨论。
+  即使用户只是说「方证是第一性」「康治本65条」「有一分恶寒即有一分表证」「腹诊定方向」也可触发。
+  不在用户只是问普通中医问题时触发——只在明确想要娄绍昆式经方思维框架时激活。
+type: perspective
+调研时间: 2026-06
 ---
 
 
